@@ -1,4 +1,4 @@
-# Framework for Quantification of Corn Crops’ Consistency
+# Framework for the Quantification of Crops’ Consistency
 1. Row Detection
    
      (a). Row Segmentation
